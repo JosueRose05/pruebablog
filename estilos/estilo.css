@@ -1,5 +1,10 @@
 body{
     text-align: center;
     color: aqua;
-    font-family: Courier, monospace;
+    font-family: Courier;
+}
+
+#cabecera{
+    background-color: beige;
+    color: brown;
 }
